@@ -1,0 +1,45 @@
+{
+  "name": "noteApp",
+  "short_name": "nApp",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+        "src": "./icons/strategy72.png",
+        "sizes": "72x72",
+        "type": "image/png"
+    },
+    {
+        "src": "./icons/strategy96.png",
+        "sizes": "96x96",
+        "type": "image/png"
+    },
+    {
+        "src": "./icons/strategy128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+    },
+    {
+        "src": "./icons/strategy144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+    },
+    {
+        "src": "./icons/strategy152.png",
+        "sizes": "152x152",
+        "type": "image/png"
+    },
+    {
+        "src": "./icons/strategy192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    },
+    {
+        "src": "./icons/strategy384.png",
+        "sizes": "384x384",
+        "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}
